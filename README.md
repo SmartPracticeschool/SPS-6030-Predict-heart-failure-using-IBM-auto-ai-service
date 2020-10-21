@@ -1,5 +1,5 @@
 # SPS-6030-Predict-heart-failure-using-IBM-auto-ai-service
-Predict heart failure using IBM auto ai service
+Predict heart failure using IBM auto ai service - Krishna Priya G- Jansons Institue of Technolgy
 
 Demonstration Video URL : https://youtu.be/5d73UnnnGSk
 
